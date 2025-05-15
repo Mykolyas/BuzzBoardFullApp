@@ -18,3 +18,5 @@
 - Entity Framework Core
 - SQL Server
 - Google Identity для управління користувачами
+
+![image](https://github.com/user-attachments/assets/c7731b1c-3953-475d-bc6e-d6fa04b7e268)
