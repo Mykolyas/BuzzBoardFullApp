@@ -1,0 +1,6 @@
+[submodule "BulletinBoardApi"]
+	path = BulletinBoardApi
+	url = https://github.com/Mykolyas/BulletinBoardApi.git
+[submodule "BulletinBoardMvc"]
+	path = BulletinBoardMvc
+	url = https://github.com/Mykolyas/BulletinBoardMvc.git
